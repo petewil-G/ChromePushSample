@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 // This is a sample app to show others how to use our push messaging service.
-// As such, we should ensure this is the highest quality code we can write
+// As such, we should improve this to the highest quality code we can write
 // in anticipation of it getting cut and pasted into the actual apps using
 // push messaging.
 
